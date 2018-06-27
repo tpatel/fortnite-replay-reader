@@ -24,7 +24,7 @@ For the file `test3.replay` from the `data/` directory, the parser returns the f
 {
   "unknown1": 480436863,
   "unknown2": 3,
-  "unknown3": 827599,
+  "match_duration_ms": 827599,
   "unknown4": 2,
   "version": 4000805,
   "name_length": 257,
