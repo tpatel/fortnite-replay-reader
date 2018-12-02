@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tpatel/fortnite-replay-reader#readme",
   "dependencies": {
+    "bignum": "^0.13.0",
     "binary-parser": "^1.3.2"
   }
 }
